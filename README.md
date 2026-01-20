@@ -1,6 +1,6 @@
 # GitHub public roadmap
 
-:sparkle: View the [official GitHub public product roadmap](https://github.com/orgs/github/projects/4247)[^1]
+:sparkle: View the [official GitHub public product roadmap](https://github.com/orgs/github/projects/4247)[^0]
 
 Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Share your feedback via [GitHub public feedback discussions](https://github.com/github/feedback/discussions). 
 
@@ -48,10 +48,10 @@ Some features may be marked with a GHES 3.X label, which indicates that the feat
 **GHES release version dates**:
 | **Version Number** | **Release Quarter** | **Release Notes** |
 |-|-|-|
-| 3.12 | Q1 2024 | [Release Notes](https://docs.github.com/en/enterprise-server@3.12/admin/release-notes#3.12.0)|
-| 3.13 | Q2 2024 | [Release Notes](https://docs.github.com/en/enterprise-server@3.13/admin/release-notes#3.13.0)|
-| 3.14 | Q3 2024 | [Release Notes](https://docs.github.com/en/enterprise-server@3.14/admin/release-notes) |
-| 3.15 | Q4 2024 | -- |
+| 3.12 | Q1 20 | [Release Notes](https://docs.github.com/en/enterprise-server@3.12/admin/release-notes#3.12.0)|
+| 3.13 | Q2 20 | [Release Notes](https://docs.github.com/en/enterprise-server@3.13/admin/release-notes#3.13.0)|
+| 3.14 | Q3 20 | [Release Notes](https://docs.github.com/en/enterprise-server@3.14/admin/release-notes) |
+| 3.15 | Q4 20 | -- |
 
 ## Roadmap stages
 
